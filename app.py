@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Lù Seo Sần - Trường Tiểu Học Hùng An - ĐT: 0868776199</p>
+    <p>Tác giả: Đỗ Thị Thủy - Trường Tiểu Học Hùng An - ĐT: 0868776199</p>
 </div>
 """, unsafe_allow_html=True)
 
